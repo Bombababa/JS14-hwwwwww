@@ -23,22 +23,6 @@ const users = [
       isActive: true,
       email: "charlie@example.com",
       age: 35
-    },
-    {
-      name: "Diana",
-      eyeColor: "blue",
-      gender: "female",
-      isActive: false,
-      email: "diana@example.com",
-      age: 40
-    },
-    {
-      name: "Eve",
-      eyeColor: "hazel",
-      gender: "female",
-      isActive: true,
-      email: "eve@example.com",
-      age: 22
     }
   ];
   
